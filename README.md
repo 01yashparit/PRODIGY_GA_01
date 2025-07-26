@@ -21,7 +21,8 @@ The core of this project is **fine-tuning**, a process where a large, general-pu
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/01yashparit/PRODIGY_GA_01
+    git clone
+https://github.com/01yashparit/PRODIGY_GA_01
     cd PRODIGY_GA_01
     ```
 
