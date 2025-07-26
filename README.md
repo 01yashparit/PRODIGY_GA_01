@@ -22,7 +22,7 @@ The core of this project is **fine-tuning**, a process where a large, general-pu
 1.  **Clone the repository:**
     ```bash
     git clone [your-repo-link]
-    cd [your-repo-name]
+    cd [PRODIGY_GA_01]
     ```
 
 2.  **Install dependencies:**
