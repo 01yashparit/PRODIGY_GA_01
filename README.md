@@ -45,6 +45,12 @@ The core of this project is **fine-tuning**, a process where a large, general-pu
     ```bash
     python generate.py
     ```
+6.  **Use app.py**
+    Use this app to local host this project as website or public server web site
+
+    ```bash
+     streamlit run app.py
+    ```
 
 
 ## ✨ Sample Output
