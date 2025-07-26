@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+.env
+.venv
+
+# IDE-specific
+.idea/
+.vscode/
+
+# Hugging Face Model Cache & Output
+gpt2-finetuned/
