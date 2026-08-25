@@ -1,5 +1,5 @@
-# PRODIGY_GA_01
-# Prodigy Infotech - GPT-2 Fine-Tuning Project (PRODIGY_GA_01)
+
+# Prodigy Infotech - GPT-2 Fine-Tuning Project 
 
 # 📝 GPT-2 Text Generation - ProDigy Infotech Task
 
