@@ -1,7 +1,7 @@
 
-# Prodigy Infotech - GPT-2 Fine-Tuning Project 
+# GPT-2 Fine-Tuning Project 
 
-# 📝 GPT-2 Text Generation - ProDigy Infotech Task
+# 📝 GPT-2 Text Generation - 
 
 This repository contains the solution for the text generation task as part of the ProDigy Infotech internship. The project involves fine-tuning a pre-trained GPT-2 model on a custom dataset to generate text that mimics a specific style.
 
